@@ -18,7 +18,18 @@
 
 ## 📌 Example
 
-`<!DOCTYPE html> <html> <head>   <title>My First Webpage</title> </head> <body>   <h1>Hello World 🌍</h1>   <p>This is a simple webpage.</p> </body> </html>`
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Webpage</title>
+</head>
+<body>
+  <h1>Hello World 🌍</h1>
+  <p>This is a simple webpage.</p>
+</body>
+</html>
+```
 
 ## 🔗 Related Notes
 

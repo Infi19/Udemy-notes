@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "702edb46f1ec8959",
+        "id": "08fd2f29f24368c6",
         "type": "tabs",
         "children": [
           {
-            "id": "e640d6f401e1f095",
+            "id": "eb5510eaa930dcac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "section 3 intermediate html/The List Element.md",
+                "file": "section 5 introduction to CSS/CSS Selectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The List Element"
-            }
-          },
-          {
-            "id": "186c09b185e1b5b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "section 4 multi-page websites/Computer File Paths.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer File Paths"
-            }
-          },
-          {
-            "id": "e7293be308849c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "section 4 multi-page websites/The HTML Boilerplate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The HTML Boilerplate"
-            }
-          },
-          {
-            "id": "77876c0bf838d55b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "section 4 multi-page websites/What are Webpages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What are Webpages"
+              "title": "CSS Selectors"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "section 4 multi-page websites/What are Webpages.md",
+                "file": "section 5 introduction to CSS/CSS Selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What are Webpages"
+              "title": "Backlinks for CSS Selectors"
             }
           },
           {
@@ -156,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "section 4 multi-page websites/What are Webpages.md",
+                "file": "section 5 introduction to CSS/CSS Selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from What are Webpages"
+              "title": "Outgoing links from CSS Selectors"
             }
           },
           {
@@ -185,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "section 4 multi-page websites/What are Webpages.md",
+                "file": "section 5 introduction to CSS/CSS Selectors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What are Webpages"
+              "title": "Outline of CSS Selectors"
             }
           },
           {
@@ -224,16 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77876c0bf838d55b",
+  "active": "b8ebf310167b8f60",
   "lastOpenFiles": [
+    "section 5 introduction to CSS/How to add CSS.md",
+    "section 5 introduction to CSS/CSS Selectors.md",
+    "section 5 introduction to CSS/Why do we need CSS.md",
     "section 4 multi-page websites/How to Host Your Website for Free with GitHub.md",
     "section 4 multi-page websites/The HTML Boilerplate.md",
-    "section 4 multi-page websites/What are Webpages.md",
     "section 4 multi-page websites/Computer File Paths.md",
-    "section 3 intermediate html/The List Element.md",
-    "section 3 intermediate html/Nesting and Indentation.md",
-    "section 3 intermediate html/Image Elements.md",
-    "section 3 intermediate html/Anchor Elements.md",
+    "section 4 multi-page websites/What are Webpages.md",
+    "section 3 intermediate HTML/The List Element.md",
+    "section 3 intermediate HTML/Nesting and Indentation.md",
+    "section 3 intermediate HTML/Image Elements.md",
+    "section 3 intermediate HTML/Anchor Elements.md",
     "section 1 front end web development/How Does the internet actually work.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
@@ -249,11 +209,8 @@
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "section 2 introduction to html/Self Closing Tags.md",
-    "Untitled",
-    "section 2 introduction to html/HTML Paragraph Elements.md",
-    "section 2 introduction to html/what is HTML.md",
-    "section 2 introduction to html/HTML Heading Elements.md",
+    "section 2 introduction to HTML/Self Closing Tags.md",
+    "section 5 introduction to CSS",
     "Untitled 16",
     "Untitled 15",
     "Untitled 14",

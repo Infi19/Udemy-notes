@@ -20,7 +20,20 @@
 
 ## 📌 Example
 
-`<!DOCTYPE html> <html lang="en"> <head>   <meta charset="UTF-8">   <meta name="viewport" content="width=device-width, initial-scale=1.0">   <title>Document</title> </head> <body>   <h1>Hello World 🚀</h1>   <p>This is my webpage!</p> </body> </html>`
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>Hello World 🚀</h1>
+  <p>This is my webpage!</p>
+</body>
+</html>
+```
 
 ## 🔗 Related Notes
 
