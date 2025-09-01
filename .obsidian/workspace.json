@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "08fd2f29f24368c6",
+        "id": "c81cf47b931aa5f0",
         "type": "tabs",
         "children": [
           {
-            "id": "eb5510eaa930dcac",
+            "id": "c4a80d6e65fccc6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "section 5 introduction to CSS/CSS Selectors.md",
+                "file": "section 6 CSS Properties/CSS Colours.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS Selectors"
+              "title": "CSS Colours"
             }
           },
           {
-            "id": "34866bf6dd0adfeb",
+            "id": "32476de9b1b4f879",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "section 6 CSS Properties/Font Properties.md",
+                "file": "section 7 Intermediate CSS/The Cascade - Specificity and Inheritance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Font Properties"
-            }
-          },
-          {
-            "id": "15eb7ca7bf09aad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "section 6 CSS Properties/The CSS Box Model - Margin, Padding and Border.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The CSS Box Model - Margin, Padding and Border"
+              "title": "The Cascade - Specificity and Inheritance"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208.5
   },
   "right": {
     "id": "553ec765c148dd30",
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "section 6 CSS Properties/The CSS Box Model - Margin, Padding and Border.md",
+                "file": "section 6 CSS Properties/CSS Colours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The CSS Box Model - Margin, Padding and Border"
+              "title": "Backlinks for CSS Colours"
             }
           },
           {
@@ -142,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "section 6 CSS Properties/The CSS Box Model - Margin, Padding and Border.md",
+                "file": "section 6 CSS Properties/CSS Colours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The CSS Box Model - Margin, Padding and Border"
+              "title": "Outgoing links from CSS Colours"
             }
           },
           {
@@ -171,31 +157,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "section 6 CSS Properties/The CSS Box Model - Margin, Padding and Border.md",
+                "file": "section 7 Intermediate CSS/The Cascade - Specificity and Inheritance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The CSS Box Model - Margin, Padding and Border"
-            }
-          },
-          {
-            "id": "bbb0d2517d4a3949",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of The Cascade - Specificity and Inheritance"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "ffd4f8878fa5aa7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77211da5c09a2d5e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,18 +197,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "b8ebf310167b8f60",
+  "active": "32476de9b1b4f879",
   "lastOpenFiles": [
-    "section 6 CSS Properties/Inspecting CSS.md",
+    "section 7 Intermediate CSS/Combining CSS Selectors.md",
+    "section 7 Intermediate CSS/CSS Positioning.md",
     "section 6 CSS Properties/The CSS Box Model - Margin, Padding and Border.md",
+    "section 7 Intermediate CSS/The Cascade - Specificity and Inheritance.md",
     "section 6 CSS Properties/CSS Colours.md",
-    "section 6 CSS Properties/Font Properties.md",
     "section 5 introduction to CSS/CSS Selectors.md",
+    "2025-08-29.md",
+    "section 6 CSS Properties/Font Properties.md",
+    "section 2 introduction to HTML/what is HTML.md",
+    "section 6 CSS Properties/Inspecting CSS.md",
     "section 5 introduction to CSS/How to add CSS.md",
     "section 5 introduction to CSS/Why do we need CSS.md",
     "section 4 multi-page websites/How to Host Your Website for Free with GitHub.md",
@@ -233,11 +228,6 @@
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts",
     "section 5 introduction to CSS",
     "Untitled 16",
