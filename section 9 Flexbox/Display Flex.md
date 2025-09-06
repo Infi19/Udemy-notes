@@ -14,7 +14,9 @@
 - Children become **flex items**.
     
 - Provides control over alignment, spacing, and sizing.
-    
+
+
+*imp : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## 📌 Example
 

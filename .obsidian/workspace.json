@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "section 9 Flexbox/Flex Layout.md",
+                "file": "section 10 Grid/Display Grid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flex Layout"
+              "title": "Display Grid"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "section 9 Flexbox/Flex Layout.md",
+                "file": "section 10 Grid/Display Grid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Flex Layout"
+              "title": "Outline of Display Grid"
             }
           }
         ],
@@ -187,13 +187,16 @@
   },
   "active": "da0510b1dfd8a6ab",
   "lastOpenFiles": [
+    "section 10 Grid/Grid Placement.md",
+    "section 10 Grid/Grid Sizing.md",
+    "section 10 Grid/Display Grid.md",
+    "section 9 Flexbox/Flex Layout.md",
+    "section 9 Flexbox/Flex Direction.md",
     "section 9 Flexbox/Display Flex.md",
+    "section 9 Flexbox/Flex Sizing.md",
     "section 8 Advanced CSS/How to Create Responsive Websites.md",
     "section 8 Advanced CSS/CSS Float.md",
     "section 7 Intermediate CSS/The Cascade - Specificity and Inheritance.md",
-    "section 9 Flexbox/Flex Direction.md",
-    "section 9 Flexbox/Flex Layout.md",
-    "section 9 Flexbox/Flex Sizing.md",
     "section 8 Advanced CSS/Media Queries.md",
     "section 8 Advanced CSS/CSS Display.md",
     "section 7 Intermediate CSS/Combining CSS Selectors.md",
@@ -210,9 +213,6 @@
     "section 4 multi-page websites/How to Host Your Website for Free with GitHub.md",
     "section 4 multi-page websites/The HTML Boilerplate.md",
     "section 4 multi-page websites/Computer File Paths.md",
-    "section 4 multi-page websites/What are Webpages.md",
-    "section 3 intermediate HTML/The List Element.md",
-    "section 3 intermediate HTML/Nesting and Indentation.md",
     "copilot-custom-prompts",
     "section 5 introduction to CSS",
     "Untitled 16",
